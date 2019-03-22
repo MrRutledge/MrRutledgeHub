@@ -1,6 +1,5 @@
 +++
 # Accomplishments widget.
-#draft = true
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true # This file represents a page section.
 active = true # Activate this widget? true/false
@@ -25,7 +24,7 @@ date_format = "Jan 2006"
   title = "Neural Networks and Deep Learning"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = ""
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
 
