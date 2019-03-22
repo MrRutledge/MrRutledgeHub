@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "ML Enthusiast/ Data analyst Job Seeker"
+role = "ML Enthusiast or Data analyst Job Seeker"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Basaira Elderly Centre", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am currently looking to find a full-time employment as a data anaylst/Software developer."
+bio = "I am currently looking to find a full-time employment as a Data analyst or Software developer."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -33,7 +33,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = []
+#user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -85,5 +85,4 @@ user_groups = []
 
 +++
 
-Enthusiastic and articulate university graduate with a passion for technology, I am looking to find a role as Graduate programmer/ Data analyst. I am adept at conveying complex technical information to a variety of audiences in a clear and understandable manner. Always eager to learn new skills and quick to adapt to new environments.
- 
+Enthusiastic and articulate university graduate with a passion for technology, I am looking to find a role as Graduate programmer or Data analyst. I am adept at conveying complex technical information to a variety of audiences in a clear and understandable manner. Always eager to learn new skills and quick to adapt to new environments.
