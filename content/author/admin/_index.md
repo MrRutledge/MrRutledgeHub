@@ -26,7 +26,6 @@ interests = [
   "Machine Learning",
   "Mathematical modelling",
   "Visualization Libraries",
-  "Jupyter Notebook",
   "Cycling",
   "Dancing"
 ]
