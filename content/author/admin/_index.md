@@ -28,7 +28,7 @@ interests = [
   "Visualization Libraries",
   "Jupyter Notebook",
   "Cycling",
-  "Dancing",
+  "Dancing"
 ]
 
 # Organizational groups that you belong to (for People widget)
