@@ -25,10 +25,10 @@ email = ""
 interests = [
   "Machine Learning",
   "Mathematical modelling",
-  "Visualization Libraries"
-  "Jupyter Notebook"
-  "Cycling"
-  "Dancing"
+  "Visualization Libraries",
+  "Jupyter Notebook",
+  "Cycling",
+  "Dancing",
 ]
 
 # Organizational groups that you belong to (for People widget)
