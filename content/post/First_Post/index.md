@@ -33,9 +33,10 @@ All java programs follow a similar path regardless of the platform, a typical Ja
 
 In order to get Java programs to run on your system, you need to have a Java Development Kit also known as a JDK. We have two main JDKs out there, the widely used one is supplied by the Oracle Co. and the RedHat OpenSource JDK. 
 
-Once you get the JDK of your choice installed on your system,  you will be to run programs on your device. We have three main components now, the JRE, Javac, JVM. Java Run Time environment to run the program, Java compiler to compile the program and the compiled program will be run on Java Virtual Machine.  For developers, you might want to download an Integrated Development Environment also known as the IDE. IDEs make it easier for a developer to code programs because we can import all the necessary libraries and classes. 
+Once you get the JDK of your choice installed on your system, you will be to run programs on your device. We have three main components now, the JRE, Javac, JVM. Java Run Time environment to run the program, Java compiler to compile the program and the compiled program will be run on Java Virtual Machine.  For developers, you might want to download an Integrated Development Environment also known as the IDE. IDEs make it easier for a developer to code programs because we can import all the necessary libraries and classes. 
 
 ### Differences and Similarities between Java and other high profile general purpose languages.
 
 Both C++ and Java are object-oriented programming languages.
 Unlike other languages, Java has a feature called garbage collection which helps with using the memory efficiently.
+
