@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "square-root-alt"
+  icon_pack = "fas"
+  name = "Mathematical Analysis"
+  description = "Graduate Level"
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
@@ -37,5 +43,11 @@ subtitle = ""
   icon_pack = "fab"
   name = "Version Control"
   description = "70%"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Sales/Marketing"
+  description = "E-commerce marketing and selling, Fundraising for five years"
 
 +++

@@ -23,10 +23,12 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Sustainable Energy",
   "Machine Learning",
   "Mathematical modelling",
   "Visualization Libraries",
-  "Cycling",
+  "Elderly care",
+  "Cycling & Football",
   "Dancing"
 ]
 
