@@ -50,4 +50,22 @@ subtitle = ""
   name = "Sales/Marketing"
   description = "E-commerce marketing and selling, Fundraising for five years"
 
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Jupyter Lab"
+  description = "Self-taught"  
+  
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "Novice Level"
+
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = " AWS Cloud services"
+  description = "Cloud services for various cloud platforms such as EC2, S3, Elastic Bean stalk etc"
+
 +++

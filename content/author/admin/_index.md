@@ -86,4 +86,4 @@ interests = [
 
 +++
 
-Enthusiastic and articulate university graduate with a passion for technology, I am looking to find a role as Graduate programmer or Data analyst. I am adept at conveying complex technical information to a variety of audiences in a clear and understandable manner. Always eager to learn new skills and quick to adapt to new environments.
+Enthusiastic and articulate university graduate with a passion for technology, I am looking to find a role as Graduate programmer/Data analyst. I am adept at conveying complex technical information to a variety of audiences in a clear and understandable manner. Always eager to learn new skills and quick to adapt to new environments.
