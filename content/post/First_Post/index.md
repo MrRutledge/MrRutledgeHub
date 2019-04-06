@@ -1,7 +1,8 @@
 +++
 title = "Java Language"
 date = 2019-03-29T03:08:38Z
-authors = ["MrRutledge"]
+authors = ["MrRutledge-2km"]
+summary = "Java is one of the main general-purpose programming languages out there"
 
 # View.
 #   1 = List
@@ -11,9 +12,12 @@ view = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "./featured.png"
+image = "./img/featured.png"
 caption = "Your favorite language"
 +++
+
+{{< figure src="./img/featured.png" title="_Image from Unsplash:_  **Java**- your favourite language" >}}
+
 
 # JAVA
 Java is one of the main general-purpose programming languages out there, first appeared in 1995 when it was developed by Sun Microsystems. Since then, Java has changed ownership and has gone through various changes to keep up with demand and modern computational challenges. 
@@ -38,5 +42,9 @@ Once you get the JDK of your choice installed on your system, you will be to run
 ### Differences and Similarities between Java and other high profile general purpose languages.
 
 Both C++ and Java are object-oriented programming languages.
-Unlike other languages, Java has a feature called garbage collection which helps with using the memory efficiently.
+Unlike other languages, Java has a feature called garbage collection which helps with using the memory efficiently. 
+C++ has pointers while in Java we don't have pointers.
+Both Java and C++ have C language as their progenitor.
+Java code is converted to bytcode after compilation while in C++ there is no such step required.
+ 
 
