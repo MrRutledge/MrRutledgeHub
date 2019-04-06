@@ -27,7 +27,7 @@ So one might ask, is it really that hard to find interesting datasets to work on
 
 ### Open Source datasets
 
-{{< figure src="./img/books.jpg" title="Publicly accessable datasets" >}}
+{{< figure src="./img/books.jpg" title="Publicly accessible datasets" >}}
 
 Open source datasets are your best bet, they are used by everyone from seasoned professionals to absolute novices. A lot of datasets are being made open source, big companies put up big prizes for people who help them find better solutions. Getting involved in these competitions is actually a great way to show off your skills and get noticed by a potential employer especially if you're a beginner. Best places to find open source datasets include sites like [Kaggle](https://www.kaggle.com/data), [Dataset Search](https://toolbox.google.com/datasetsearch), [Driven data](https://www.drivendata.org/), [awsome-lists](https://github.com/awesomedata/awesome-public-datasets), [wikidata](https://www.wikidata.org/wiki/Wikidata:Tools/For_programmers), Govenment sites to mention but a few. Most of the data you will find on these sites will be up to date and free to access.
 
