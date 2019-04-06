@@ -25,7 +25,7 @@ So one might ask, is it really that hard to find interesting datasets to work on
 
 ## Available data sources 
 
-{{< figure src="./img/books.jpg" title=".                         Publicly accessible datasets" >}}
+{{< figure src="./img/books.jpg" align="left" title=" &emsp; &emsp; &emsp; &emsp; Publicly accessible datasets" >}}
 
 ### Open Source datasets
 
