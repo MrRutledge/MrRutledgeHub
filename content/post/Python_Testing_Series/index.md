@@ -131,4 +131,5 @@ This is enough  code for now, lets dig a bit deeper into the code we have writte
 |assertNotIn(a, b)    |a not in b      |
 Table from the documentation.
 
-I am going to conclude this post here because its becoming long, I keep my articles short so that they're easily digestable. Hopefully I was able to whet your appetite, keep an eye out for part two of this series where we shall begin with learning how to raise exceptions in tests and how to unit test our code in an editor and later in Jupyter notebooks. I apologies for the long post, I appreciate you spending on my reading my articles. Keep Learning!.
+I am going to conclude this post here because its becoming long, I keep my articles short so that they're easily digestable. Hopefully I was able to whet your appetite, keep an eye out for part two of this series where we shall begin with learning how to raise exceptions in tests and how to unit test our code in an editor and later in Jupyter notebooks.
+ I apologies if there is any mistake in this post, please alert it me if you see any, I appreciate you spending  some time reading my articles. Keep Learning!.
