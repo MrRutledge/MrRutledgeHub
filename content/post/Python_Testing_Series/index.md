@@ -3,7 +3,7 @@ title = "Python_Testing_Series"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "Testing your code is a must not an option, the more you do it the more come to enjoy it and the more you become good at it"
+summary = "Testing your code is a must not an option, the more you do it the more you come to enjoy it and the more you become good at it"
 
 date = 2019-07-04T15:23:49+01:00
 draft = false
