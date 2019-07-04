@@ -62,11 +62,12 @@ In both of the last two conventions we use the _same naming style_, I have to em
 
 ## What we need before we begin?
 As of this writing, these are the requirements one would need to have in order to guarantee success with this walk through.
-	*  Python 3+ (If you don't already have it.) 
-	*  Jupyter (I recommend Anaconda distribution if you don't have this one either)
-	*  Lastly, a text editor of your choice (I recommend Visual Studio code by Microsoft)
 
-Once you get above list on your machine you can go head and open you text editor and follow the procedure for creating  a new folder, if you're using cmd/Shell/Terminal and just type ``` mkdir``` followed by whatever name you feel appropriate. I shall name mine python_testing . 
+- Python 3+ (If you don't already have it.) 
+- Jupyter (I recommend Anaconda distribution if you don't have this one either)
+- Lastly, a text editor of your choice (I recommend Visual Studio code by Microsoft)
+
+Once you get above list on your machine you can go head and open you text editor and follow the procedure for creating  a new folder, if you're using cmd/Shell/Terminal and just type ``` mkdir``` followed by whatever name you feel appropriate. I shall name mine python_testing. 
 Create another sub folder within the python_testing parent folder and name it Text_Editor folder, this sub folder can be optional if you don't like to have many folders in your environment.
 
 I am going to conclude this post here because its becoming long, I keep my articles short so that they're easily digestable. Hopefully I was able to whet your appetite, keep an eye out for part two of this series where we shall begin with learning how to use those conventions starting with creating folders and learning how to unittest our code in an editor and later in Jupyter notebooks. I apologies for the long post, I appreciate you spending on my reading my articles. Keep Learning!.
