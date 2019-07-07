@@ -1472,7 +1472,6 @@ listings.groupby('neighbourhood')['price','review location'].median().sort_value
 </div>
 
 
-
 ## Merging tables
 
 We can solve some more interesting problems if we merge a few tables together. Let's see how review sentitment correlates with a listings overall ratings.
