@@ -78,7 +78,7 @@ def add()
 """Addition function"""
         return  a + b
 ```
- Lest take the function above as our example, it just sums the given variable if we want to test this using the standard testing library we need to create another file, this is where the name convention comes in handy. If we want the Testing library Unittest to see our test module we have to give it a particular name. In this case it will be _test_calc.py_.  While in the _test_calc.py_ module write the following code:
+ Lets take the code above as an example, the function just sums the given variable. If we want to test this using the standard testing library we need to create another file, this is where the name convention comes in handy. If we want the testing library **Unittest** to see our test module we have to give it a particular name. In our case it will be _test_calc.py.  While in the _test_calc.py module write the following code:
 ```Python
 #test_calc.py module
 
@@ -131,5 +131,5 @@ This is enough  code for now, lets dig a bit deeper into the code we have writte
 |assertNotIn(a, b)    |a not in b      |
 Table from the documentation.
 
-I am going to conclude this post here because its becoming long, I keep my articles short so that they're easily digestable. Hopefully I was able to whet your appetite, keep an eye out for part two of this series where we shall begin with learning how to raise exceptions in tests and how to unit test our code in an editor and later in Jupyter notebooks.
- I apologies if there is any mistake in this post, please alert it me if you see any, I appreciate you spending  some time reading my articles. Keep Learning!.
+I am going to conclude this post here because its becoming long, I keep my articles short so that they're easily digestable. Hopefully I was able to whet your appetite for python testing, keep an eye out for part two of this series where we shall begin with learning how to raise exceptions in tests and how to unit test our code in an editor and later in Jupyter notebooks.
+I apologies if there is any mistake in this post, please alert it me if you see any, I appreciate you spending some time reading my articles. Keep Learning!.
